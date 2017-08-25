@@ -10,7 +10,7 @@ parameters:
 
     mailer_transport: "%env(MAILER_TRANSPORT)%"
     mailer_host: "%env(MAILER_HOST)%"
-    mailer_user: "%env(MAILER_USER)%
+    mailer_user: "%env(MAILER_USER)%"
     mailer_password: "%env(MAILER_PASSWORD)%"
 
     # A secret key that's used to generate certain security-related tokens
